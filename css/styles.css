@@ -1,0 +1,29 @@
+#story {
+  display: none;
+}
+
+#blanks {
+  display: inherit;
+}
+ img {
+   float: right;
+   width: 40%;
+ }
+body {
+  font-family: monospace;
+}
+
+p {
+  font-size: 28px;
+  line-height: 90px;
+}
+
+span {
+  font-weight: bold;
+  font-style: italic;
+  background: rgba(255, 255, 0, 0.5);
+}
+
+.underline {
+  border-bottom: 2px black solid;
+}
